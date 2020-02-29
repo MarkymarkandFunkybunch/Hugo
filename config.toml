@@ -1,4 +1,4 @@
-baseurl         = ""
+baseurl         = "https://upbeat-liskov-e8fe07.netlify.com"
 theme           = "casper-two"
 languageCode    = "en-US"
 disqusShortname = ""
